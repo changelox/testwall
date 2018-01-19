@@ -4,10 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## []
 
-#### deprecated
+#### changed
 
--   WIP. Just want to trigger a push event.
-    And of course a cool changelog message!
+-   Testing stuff
+    A description.
 
 
 
