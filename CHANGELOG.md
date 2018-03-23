@@ -4,9 +4,9 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-#### deprecated
+#### changed
 
--   And of course a cool changelog message!
+-   A description.
 
 
 
